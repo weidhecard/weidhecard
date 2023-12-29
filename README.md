@@ -26,8 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          10 hrs 35 mins  ██████████████████████░░░  80.00 %
-JavaScript   2 hrs           █████░░░░░░░░░░░░░░░░░░░░  20.00 %
+PHP          8 hrs           █████████████████░░░░░░░░  60.00 %
+JavaScript   4 hrs           ██████████░░░░░░░░░░░░░░░  40.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -45,8 +45,6 @@ JavaScript   2 hrs           █████░░░░░░░░░░░░
 <!-- START_SECTION:START -->
 🚧 **My Goals:**
 <p>To transform traditional web into the dynamic and decentralized landscape of Web 3.0.</p>
-<p>
-🚀 Get ready to embark on a journey that will redefine the digital landscape! We are standing at the forefront of a revolution, and it's called Web 3.0. This isn't just an upgrade; it's a paradigm shift, a game-changer that will transform the way we experience the internet.
 </p>
 
 <img align="left" src="https://assets.weforum.org/article/image/0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.png" alt="Buy Me A Coffee" width="400">
