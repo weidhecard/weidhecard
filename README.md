@@ -44,7 +44,7 @@ JavaScript   4 hrs           ██████████░░░░░░░
 
 <!-- START_SECTION:START -->
 🚧 **My Goals:**
-<p>To transform traditional web into the dynamic and decentralized landscape of Web 3.0.</p>
+<p>To transform traditional web into the dynamic and decentralized landscape of Web 3.0 and beyond.</p>
 </p>
 
 <img align="left" src="https://assets.weforum.org/article/image/0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.png" alt="Buy Me A Coffee" width="400">
