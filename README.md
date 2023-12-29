@@ -2,9 +2,6 @@
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
-  
-- 💼 any freelance work? do reach, [email](mailto:weidhe.card@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 **Languages and Tools:**  
 
@@ -31,6 +28,9 @@ JavaScript   6 hrs           █████████████░░░░
 ```
 
 <!--END_SECTION:waka-->
+  
+- 💼 any freelance work? do reach, [email](mailto:weidhe.card@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 🚧 **My todolist stats:**
 <!-- TODO-IST:START -->
